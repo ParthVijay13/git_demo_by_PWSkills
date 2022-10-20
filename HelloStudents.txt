@@ -1,0 +1,4 @@
+Hello Everyone !
+This is my first session on Git ..
+
+And i hope i will do it consistently !!
